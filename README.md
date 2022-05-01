@@ -1,3 +1,5 @@
+
+[![ohseungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseungo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Stack Preview
 **Tech familiar to use**
 <p>
@@ -17,5 +19,4 @@
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
-[![ohseungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseungo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

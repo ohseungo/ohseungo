@@ -1,8 +1,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohseungo&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohseungo)
-
 ### Stack Preview
 **Tech familiar to use**
 <p>
